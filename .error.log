@@ -1,0 +1,7 @@
+mkdir: cannot create directory ‘DBMS’: File exists
+mkdir: cannot create directory ‘DBMS’: File exists
+
+select_table/selectSpecificColumn.sh: line 22: /BEGIN{FS="|"}{print $1}: No such file or directory
+select_table/selectSpecificColumn.sh: line 22: /BEGIN{FS="|"}{print $5}: No such file or directory
+select_table/selectSpecificColumn.sh: line 27: /BEGIN{FS="|"}{print $1}: No such file or directory
+select_table/selectSpecificColumn.sh: line 27: /BEGIN{FS="|"}{print $1}: No such file or directory
